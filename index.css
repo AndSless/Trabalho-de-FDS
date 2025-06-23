@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(83, 124, 158, 0.164);
+}
+
+.titulo {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-family: cursive;
+    font-size: 300%;
+    background-color: rgb(99, 62, 16);
+    text-align: center;
+}
+
+.paragrafo {
+    color: rgba(59, 34, 3, 0.514); 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin-top: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.lista {
+    color: rgba(82, 50, 11, 0.541); 
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 37%;
+    margin-right: 50%;
+}
+
+.titulo2 {
+    color: rgba(59, 34, 3, 0.801);
+}
+.tabela {
+    margin-top: 0px;
+    margin-left: 40%;
+    
+}
+.imagem {
+    margin-left: 49%;
+    margin-top: -10%;
+    border-radius: 15%;
+
+}
