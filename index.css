@@ -36,8 +36,9 @@ body {
     margin-left: 40%;
 }
 .imagem {
-    margin-left: 49%;
-    margin-top: -20%;
+    top: 230px;
+    right: 700px;
+    position: absolute;
     border-radius: 15%;
 }
 #italia {
@@ -45,7 +46,6 @@ body {
     background-size: 100%;
     background-repeat: no-repeat;
     text-align: center;
-    text-shadow: white 100%;
 }
 #espanha {
     background-image: url(Imagens/bandeiraespanha.png);
@@ -62,5 +62,6 @@ body {
 #link:hover {
     color: blue;
 }
-#link {
+#botao {
+margin-left: 30%;
 }
